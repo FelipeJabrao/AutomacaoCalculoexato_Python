@@ -1,3 +1,4 @@
-selenium
-webdriver-manager
-pyautogui
+selenium==4.1.0
+Flask==3.1.0
+webdriver-manager==4.0.2
+pyautogui==0.9.54
